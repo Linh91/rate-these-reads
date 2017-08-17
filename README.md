@@ -1,3 +1,3 @@
 # Rate these reads!
 
-*Technologies: Angular 2
+*Technologies: Angular 2*
